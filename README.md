@@ -1,6 +1,7 @@
 # PROJECT EULER
 
-> Lets have fun!
+> Euler problem solving is fun.\
+> Lets have some fun!\
 [Sepehr Alimohamadi](https://weblink.co.com)
 
 -----------
