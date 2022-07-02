@@ -5,7 +5,7 @@ Created on Sat Jul  2 00:06:16 2022
 @author: Sajad
 """
 
-# project number1 euler
+# projecteuler 2
 # Multiples of 3 or 5
 def divisible_numbers():
     divisible_number = 0
