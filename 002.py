@@ -5,7 +5,7 @@ Created on Sat Jul  2 00:40:20 2022
 @author: Sajad
 """
 
-# projecteuler 1
+# projecteuler 2
 # Even Fibonaccci numbers
 first_number = 1
 second_number = 1
